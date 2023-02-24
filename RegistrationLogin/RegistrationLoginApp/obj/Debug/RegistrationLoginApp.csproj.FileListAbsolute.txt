@@ -1,0 +1,12 @@
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\bin\Debug\RegistrationLoginApp.exe.config
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\bin\Debug\RegistrationLoginApp.exe
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\bin\Debug\RegistrationLoginApp.pdb
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.csproj.AssemblyReference.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.csproj.SuggestedBindingRedirects.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.frmMain.resources
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.frmLogin.resources
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.Properties.Resources.resources
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.csproj.GenerateResource.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.csproj.CoreCompileInputs.cache
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.exe
+D:\Rebecca\SCHOOL\Software Engineering Technician ONLINE\Coding Practices\C#\RegistrationLogin\RegistrationLoginApp\obj\Debug\RegistrationLoginApp.pdb
